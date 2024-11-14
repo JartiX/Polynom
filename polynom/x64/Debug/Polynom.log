@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(262,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(262,16):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\artem\OneDrive\Документы\GitHub\Polynom\main.cpp(10,10):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<<double>(std::ostream &,const Polynomial<double> &)"
+  
+C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(79,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(79,16):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\artem\OneDrive\Документы\GitHub\Polynom\main.cpp(21,26):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Polynomial<Rational>"
+  	C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(76,38):
+  	во время компиляции функции-члена класс шаблон "T Polynomial<T>::evaluate(T) const"
+          with
+          [
+              T=Rational
+          ]
+  		C:\Users\artem\OneDrive\Документы\GitHub\Polynom\main.cpp(27,41):
+  		см. первую ссылку на "Polynomial<Rational>::evaluate" в "main"
+  
+C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(153,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(153,20):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\artem\OneDrive\Документы\GitHub\Polynom\main.cpp(8,24):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Polynomial<double>"
+  	C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(60,50):
+  	во время компиляции функции-члена класс шаблон "Polynomial<double>::Polynomial(const std::vector<double,std::allocator<double>> &)"
+  		C:\Users\artem\OneDrive\Документы\GitHub\Polynom\main.cpp(8,27):
+  		см. первую ссылку на "Polynomial<double>::Polynomial" в "main"
+  	C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(152,71):
+  	во время компиляции функции-члена класс шаблон "Polynomial<double> &Polynomial<double>::operator *=(const Polynomial<double> &)"
+  		C:\Users\artem\OneDrive\Документы\GitHub\Polynom\polynom\polynom.h(148,5):
+  		см. первую ссылку на "Polynomial<double>::operator *=" в "Polynomial<double>::operator *"
+  		C:\Users\artem\OneDrive\Документы\GitHub\Polynom\main.cpp(13,10):
+  		см. первую ссылку на "Polynomial<double>::operator *" в "main"
+  
+  Polynom.vcxproj -> C:\Users\artem\OneDrive\Документы\GitHub\Polynom\x64\Debug\Polynom.exe

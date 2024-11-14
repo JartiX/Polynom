@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE2A6-04BA-47EE-8AD4-C73B39BF91FC}|Polynom.vcxproj|C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BE2A6-04BA-47EE-8AD4-C73B39BF91FC}|Polynom.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE2A6-04BA-47EE-8AD4-C73B39BF91FC}|Polynom.vcxproj|C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\polynom\\polynom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BE2A6-04BA-47EE-8AD4-C73B39BF91FC}|Polynom.vcxproj|solutionrelative:polynom\\polynom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE2A6-04BA-47EE-8AD4-C73B39BF91FC}|Polynom.vcxproj|C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\Rational\\Rational.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BE2A6-04BA-47EE-8AD4-C73B39BF91FC}|Polynom.vcxproj|solutionrelative:Rational\\Rational.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rational.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\Rational\\Rational.cpp",
+              "RelativeDocumentMoniker": "Rational\\Rational.cpp",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\Rational\\Rational.cpp",
+              "RelativeToolTip": "Rational\\Rational.cpp",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T04:57:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "polynom.h",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\polynom\\polynom.h",
+              "RelativeDocumentMoniker": "polynom\\polynom.h",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\polynom\\polynom.h",
+              "RelativeToolTip": "polynom\\polynom.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T02:51:18.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\artem\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Polynom\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T02:47:14.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

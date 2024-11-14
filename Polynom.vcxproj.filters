@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\polynom">
+      <UniqueIdentifier>{44844c97-5116-4e9f-b4d5-585d309acf43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Rational">
+      <UniqueIdentifier>{1abe8bb5-b07a-4bec-ad9a-f1916448482e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Round">
+      <UniqueIdentifier>{d78d8f05-df6e-4b03-86db-16c01a57adb9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="polynom\polynom.cpp">
+      <Filter>Исходные файлы\polynom</Filter>
+    </ClCompile>
+    <ClCompile Include="Rational\Rational.cpp">
+      <Filter>Исходные файлы\Rational</Filter>
+    </ClCompile>
+    <ClCompile Include="Round\Round.cpp">
+      <Filter>Исходные файлы\Round</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="polynom\polynom.h">
+      <Filter>Исходные файлы\polynom</Filter>
+    </ClInclude>
+    <ClInclude Include="Rational\Rational.h">
+      <Filter>Исходные файлы\Rational</Filter>
+    </ClInclude>
+    <ClInclude Include="Round\Round.h">
+      <Filter>Исходные файлы\Round</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
